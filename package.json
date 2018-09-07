@@ -10,7 +10,7 @@
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.3",
     "bonjour": "^3.5.0",
-    "commander": "^2.16.0",
+    "commander": "^2.18.0",
     "debug": "^3.1.0",
     "express": "^4.16.3",
     "fast-url-parser": "^1.1.3",
